@@ -1,0 +1,41 @@
+version: 1
+
+learner:
+  target_level: C1
+  primary_mode: professional_spoken_english
+  native_language: Russian
+
+tracking:
+  activation_threshold: 3
+  max_inline_corrections_normal_mode: 5
+  max_evidence_examples_per_error: 12
+  preserve_resolved_errors: true
+  infer_pronunciation_from_transcript: false
+
+statuses:
+  - CANDIDATE
+  - ACTIVE
+  - IMPROVING
+  - MONITORING
+  - RESOLVED
+
+severity:
+  - LOW
+  - MEDIUM
+  - HIGH
+  - CRITICAL
+
+confidence:
+  - low
+  - medium
+  - high
+
+review:
+  weekly:
+    enabled: true
+  top_priorities: 3
+  max_active_focus_areas: 8
+
+session_logging:
+  directory: data/sessions
+  filename_format: YYYY-MM-DD-HHMM-topic.md
