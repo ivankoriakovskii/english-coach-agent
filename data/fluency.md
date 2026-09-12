@@ -7,17 +7,11 @@ Track patterns visible in spoken production.
 | error_id | issue | typical manifestation | status | occurrences | last_seen |
 |---|---|---|---|---:|---|
 
-_No fluency issues recorded yet._
+No canonical fluency entry yet: transcript artifacts make frequency/severity uncertain.
 
 ## Metrics / qualitative trends
 
-Possible observations:
-- filler density
-- restart frequency
-- unfinished sentence frequency
-- average answer coherence
-- ability to sustain 2–3 minute explanations
-- self-correction quality
-- hesitation before complex structures
+2026-09-12 — session 2026-09-12-2125-ai-agents: visible restarts and clause rebuilding in hypothetical reasoning, a route-finding analogy and a work-history account. The learner sustained complex discussion and repaired "make ... made" and "I'm not really ... care ... I don't really care." Do not count the abandoned forms as additional errors.
 
-Do not manufacture precise numeric metrics unless they were actually measured.
+No measured speaking rate, pause duration, filler density or trend. Replayed transcript blocks, punctuation and assistant interruption are not fluency evidence. See the session note for source IDs and exclusions.
+
