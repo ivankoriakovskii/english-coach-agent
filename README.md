@@ -46,6 +46,7 @@ At the end of a meaningful practice session:
 - `data/fluency.md` — spoken fluency issues.
 - `data/progress.md` — current high-level assessment and trends.
 - `data/session-index.md` — compact index of completed sessions.
+- `data/analyzed-chats.md` — registry used by `/analyze` to avoid reprocessing chat transcripts.
 - `data/sessions/` — detailed session notes.
 
 ## Important design rule
