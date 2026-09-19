@@ -15,3 +15,11 @@ No canonical fluency entry yet: transcript artifacts make frequency/severity unc
 
 No measured speaking rate, pause duration, filler density or trend. Replayed transcript blocks, punctuation and assistant interruption are not fluency evidence. See the session note for source IDs and exclusions.
 
+2026-09-19 — session 2026-09-19-1202-discipline-entrepreneurship: sustained reasoning about motivation, recovery, poverty, customer demand and profitability. Longer turns visibly rebuild clauses, particularly the request about self-made people (01a0b929-fb88-74b3-8b5b-491dab167e74) and the final future-business argument (01a0b947-73e1-7322-a210-c6dc9cc3851c). This can make the intended question harder to follow, but does not establish an error for every restart or an audio-based fluency rate.
+
+Successful repairs include "if you're... don't have... if you don't have" (01a0b934-8921-72a3-a274-2a82f2c6c4dd) and "What ... clarity ... means? ... what-what does it mean" (delta in 01a0b929-fb88-74b3-8b5b-491dab167e74). The job/project explanation is interrupted and repeated across 01a0b934-8921-72a3-a274-2a82f2c6c4dd and 01a0b935-80ee-7e82-830d-4a4dfbbfef40; these overlapping suffixes are not new restarts or separate errors.
+
+"Am I-am I right" at the end of that explanation is an acceptable comprehension check, credited qualitatively only. It is not an independent successful test of GR-Q-001's lexical-verb/modal question target. The build/built transcript ambiguity is an uncounted retest, not grammar or pronunciation evidence.
+
+Professional communication strength: the learner distinguishes demand from profitable delivery and supports it with a concrete cleaning-service price example (01a0b93b-178a-7c41-b4a3-15e392a0b799). Practice a 45–60-second explanation with one claim, one example and one conclusion. No measured improvement/decline and no canonical fluency entry assigned. Pronunciation remains unassessed.
+
