@@ -18,7 +18,6 @@ At the beginning of a session:
 2. Read `data/profile.md`.
 3. Read `data/error-registry.md`.
 4. Read the relevant specialist files:
-   - `data/pronunciation.md`
    - `data/vocabulary.md`
    - `data/fluency.md`
    - `data/progress.md`
@@ -41,7 +40,6 @@ At the end of a meaningful practice session:
 - `config.yaml` — thresholds and tracking settings.
 - `data/profile.md` — learner goals and stable context.
 - `data/error-registry.md` — canonical recurring-error database.
-- `data/pronunciation.md` — pronunciation-specific observations.
 - `data/vocabulary.md` — lexical and collocation issues.
 - `data/fluency.md` — spoken fluency issues.
 - `data/progress.md` — current high-level assessment and trends.

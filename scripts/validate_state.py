@@ -13,7 +13,6 @@ required = [
     ROOT / "config.yaml",
     ROOT / "data" / "profile.md",
     REGISTRY,
-    ROOT / "data" / "pronunciation.md",
     ROOT / "data" / "vocabulary.md",
     ROOT / "data" / "fluency.md",
     ROOT / "data" / "progress.md",
