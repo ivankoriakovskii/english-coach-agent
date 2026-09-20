@@ -29,3 +29,7 @@ Updated 2026-09-19 from session 2026-09-19-1202-discipline-entrepreneurship. VO-
 
 Do not record "financial caution" or "financial dependency" as lexical errors: recognition uncertainty. Assistant-supplied expressions such as "living off my savings" are not evidence that the learner acquired or used them.
 
+
+## September 20 local feedback and suggestions
+
+Session 2026-09-20-1244-autonomy-business: from the scratch -> from scratch (clear local correction, not a new recurring diagnosis). Mystery boxes, a financial cushion, test a business hypothesis and set up a supply chain are useful formulations, not demonstrated acquisitions. Financial caution, fifty/fifteen, brand names and interrupted product descriptions excluded from error counts as recognition ambiguities. September 19 Hormuz: affect on the oil market -> affect the oil market (one local collocation correction). GR-Q-001 separately records correct inversion in that question.

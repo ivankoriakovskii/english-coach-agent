@@ -24,3 +24,14 @@ D01–D13 and the two successful checks in 2026-09-19-1202-discipline-entreprene
 
 Skip another analysis of this covered material even if assistant/tool activity changes the task timestamp. Match later overlapping deltas against the session ledger before counting genuinely new learner messages. Do not recount setup, quotations in feedback, interrupted suffixes, or a report delivered by an analysis task. No pronunciation assessment was made.
 
+
+## September 20 discovery and coverage
+
+list_threads(limit=50) exposed five tasks in this project; archived listing empty, no unavailable sources reported. The three previously tracked tasks were checked at their latest two turns; no new learner practice beyond recorded coverage was identified. Historical analysis/delegated quotations are not new speech. Other ChatGPT project IDs/null-project conversations were not assumed part of this project.
+
+| chat_id | chat title | last message analyzed | analyzed at | result |
+|---|---|---|---|---|
+| 01a0be46-a24a-7c01-8e91-4a86d2d59392 | Building a Profitable Business | Current-context final thanks beginning 'Okay, I think that’s enough for-for now' and closing tail flush | 2026-09-20 12:44 Europe/Budapest | All supplied learner transcript covered; S01-S04 counted once; session 2026-09-20-1244-autonomy-business; analysis/self-delegation excluded |
+| 01a0bb23-0933-74d3-98ce-5486f3efde4b | Why US Can’t Secure Hormuz | 01a0bb29-9cca-7d52-82a3-521e98a87235 tail flush | 2026-09-20 12:44 Europe/Budapest | All four turns inspected; H01-H03; session 2026-09-19-2050-hormuz; interrupted prior analysis had not saved counts |
+
+Do not recount S01-S04 or H01-H03 from replayed transcripts or assistant feedback. Pronunciation unassessed in both sessions.

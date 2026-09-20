@@ -51,3 +51,11 @@ Continue the learner's chosen topic. Ask for a 45–60-second explanation of a s
 
 Suggested production prompts: "Describe an existing service and a gap in it"; "Explain why one experiment deserves your time"; "Describe one person, one problem and one possible solution." Review pay for and unit economics only after the learner finishes the explanation.
 
+
+## September 20, 2026 update
+
+Session 2026-09-20-1244-autonomy-business: articles remain ACTIVE (GR-A-001, 9 selected occurrences), extra be remains ACTIVE (GR-BE-001, 5). Retrospective completion of September 19 Hormuz review activates GR-Q-001 (3 errors across two conversations, 2 correct spontaneous inversion checks). Historical assessment above retained; current priorities: articles, lexical verbs without extra be, direct-question structure. Worth + -ing remains ACTIVE but was not cleanly retested today.
+
+Strengths: sustained abstract reasoning; clearly distinguishes tools from life goals; develops a concrete business example and explains iterative learning. No overall proficiency trend inferred. New local targets: if I had (hypothetical), I tend / money does (agreement), from scratch, that kind of person. These are selected feedback, not new established recurring patterns.
+
+Next practice: learner-chosen substantive topic; concise claim, example and conclusion. Invite two genuine questions and an explanation of one project. Respect preference against routine small talk and employment-centered framing. Pronunciation unassessed: transcript only.
