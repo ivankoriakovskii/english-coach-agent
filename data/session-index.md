@@ -7,3 +7,4 @@
 
 | 2026-09-19 | [2026-09-19-2050-hormuz.md](sessions/2026-09-19-2050-hormuz.md) | conversation | Oil markets and maritime security | not measured | Retrospectively reviewed September 20; GR-Q-001 ACTIVE; two correct inversion checks; transcript only |
 | 2026-09-20 | [2026-09-20-1244-autonomy-business.md](sessions/2026-09-20-1244-autonomy-business.md) | conversation | Autonomy, relationships and small business | not measured | Articles +3, extra be +1; sustained abstract reasoning; preferences saved; transcript only |
+| 2026-09-20 | [2026-09-20-1419-german-cars.md](sessions/2026-09-20-1419-german-cars.md) | conversation | German cars, design and Chinese competition | not measured | Articles +2, direct questions +2; agreement and decade-expression candidates +1 each; two successful checks; transcript only |

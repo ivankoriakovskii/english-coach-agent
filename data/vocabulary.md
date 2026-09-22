@@ -33,3 +33,6 @@ Do not record "financial caution" or "financial dependency" as lexical errors: r
 ## September 20 local feedback and suggestions
 
 Session 2026-09-20-1244-autonomy-business: from the scratch -> from scratch (clear local correction, not a new recurring diagnosis). Mystery boxes, a financial cushion, test a business hypothesis and set up a supply chain are useful formulations, not demonstrated acquisitions. Financial caution, fifty/fifteen, brand names and interrupted product descriptions excluded from error counts as recognition ambiguities. September 19 Hormuz: affect on the oil market -> affect the oil market (one local collocation correction). GR-Q-001 separately records correct inversion in that question.
+
+## September 20 — German cars
+VO-TIME-001 / G05: "in the beginning of zeros" -> "in the early 2000s"; one spontaneous context, CANDIDATE (session 2026-09-20-1419-german-cars). Brand identity, physical controls, justify a premium and market share are useful practice suggestions, not demonstrated acquisitions. "From my perspective" and "might differ from what I think" support qualitative credit for expressing perspective and uncertainty.
