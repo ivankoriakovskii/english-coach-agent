@@ -1,5 +1,14 @@
 # Analyzed Chat Registry
 
+## September 22 targeted post-session update
+
+| chat_id | chat title | last message analyzed | analyzed at | result |
+|---|---|---|---|---|
+| 01a0c8c9-991d-7de0-9237-d0dfd12992ad | Payments TAM Interview Practice | Final learner 01a0c8e8-3391-7380-938a-2c1a906dd833, ending "that's enough ... for now"; tail 01a0c8e8-6dec-7093-9fea-99d41b332e55 | 2026-09-22 13:39 Europe/Budapest | All 18 turns across two pages inspected; session 2026-09-22-1339-payments-tam-interview; P01–P06 selected and counted once; transcript only |
+| 01a0c8e9-127c-7633-9b11-0244a1b07e54 | Record payments interview English practice | Initial delegated analysis request, current context | 2026-09-22 13:39 Europe/Budapest | Analysis-only task; supplied quotations are not new learner production |
+
+Scope: only the explicitly requested originating practice task and current analysis context. No unrelated chats analyzed and no all-project discovery sweep claimed. Complete exposed source pagination read; this does not guarantee access to unexposed history or audio. Do not recount P01–P06, immediate repetitions, transcript input/delta replays, feedback quotations, delegation or analysis reports. Later learner speech beyond the closing tail may be analyzed separately after deduplication. Ambiguous say/said passive forms and abandoned repairs excluded; pronunciation unassessed.
+
 Use learner-message coverage, not assistant/tool activity, to determine whether new evidence exists. After the recorded boundary, analyze only new learner speech; overlapping realtime deltas must be matched against the previous covered utterances before incrementing counts.
 
 | chat_id | chat title | last message analyzed | analyzed at | result |
