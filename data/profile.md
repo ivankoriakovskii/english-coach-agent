@@ -43,3 +43,7 @@ Use `error-registry.md` for errors and `progress.md` for evolving assessment.
 ## Practice preferences — September 20, 2026
 
 Prefer substantive abstract discussion, independent projects, entrepreneurship, autonomy and relationships. Do not suggest daily-routine small talk or steer practice toward salary, interviews or corporate advancement unless requested. Learner explicitly values negotiation; objection was to employment-centered framing. Career-related examples above are available only when learner chooses that topic.
+
+## Coaching delivery preferences — September 22, 2026
+
+Speak more slowly. Explain one step at a time, including what to do, why it matters and a concrete example; check understanding before proceeding. Never introduce a new interview question until the current question is finished. In interview practice, explain operational reasoning and the sequence of actions the learner can present to an interviewer. Generic apologies or customer-service scripts do not answer that request. The learner explicitly chose payments/TAM interview practice on this date; this does not replace the broader topic preferences above.

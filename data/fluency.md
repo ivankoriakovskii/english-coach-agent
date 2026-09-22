@@ -1,5 +1,7 @@
 # Fluency Tracker
 
+Latest update: September 22, 2026; session 2026-09-22-1339-payments-tam-interview. The learner sustained an incident-response explanation, clarified the requested coaching format and successfully restated the first diagnostic step after explanation. Visible clause rebuilding is not counted per restart. Assistant interruptions, input/delta overlap and abandoned repairs excluded. No speaking-rate, pause-duration, pronunciation or trend assessment; no new canonical fluency entry. GR-AGR-001, GR-VF-001 and GR-A-001 are grammar evidence, not duplicate fluency counts. Practice one operational step with a reason and example; slower coaching delivery is a stated preference, not a measured learner deficit.
+
 Track patterns visible in spoken production.
 
 ## Active fluency issues
