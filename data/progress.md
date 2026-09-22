@@ -1,53 +1,45 @@
 # English Progress
 
+Updated 2026-09-20 after session 2026-09-20-1419-german-cars. Earlier evidence remains in the canonical registry and session notes.
+
 ## Current assessment
 
-Updated 2026-09-19 from session 2026-09-19-1202-discipline-entrepreneurship, compared with the September 12 baseline. Two tracked conversations establish recurrence for selected patterns, but do not establish an overall improvement/decline trend.
+The profile's provisional B2 estimate remains a working hypothesis, not a formal CEFR assessment. The learner sustains abstract discussion, distinguishes personal views from general explanations, and challenges incomplete reasoning with a historical comparison. Grammatical accuracy remains uneven. Selected observations do not establish an overall improvement or decline.
 
-- Overall working level: profile's provisional B2 remains a hypothesis, not a formal CEFR assessment. This transcript supports sustained discussion of abstract topics, with uneven grammatical accuracy.
-- Professional speaking: explains causal relationships and trade-offs; clearly distinguishes customer demand from profitable delivery using a concrete price-cutting example. No basis to attribute interview outcomes to English.
-- Grammar accuracy: articles, worth + -ing, and extra be before lexical verbs recur across sessions. Non-subject direct-question construction remains CANDIDATE with two contexts in the new session. Duration constructions remain untested.
-- Vocabulary/naturalness: sufficient range for abstract discipline and business discussions; targeted work on trade/exchange time for money, pay for and unit economics will improve precision.
-- Fluency: visible restarts and clause rebuilding coexist with successful repairs and recoverable main points. Shorter explanations would make the reasoning easier to follow. Pace and hesitation duration not assessed.
-- Pronunciation: not assessed; transcript only.
+Pronunciation is not assessed from these transcripts. No measured speaking rate, pause duration or filler frequency.
 
 ## Top 3 priorities
 
-1. GR-BE-001 — lexical verbs without extra be: "things are already exist" → "things already exist"; "businesses are not exist yet" → "businesses do not exist yet."
-2. GR-A-001 — a/an with singular countable nouns: "helps person" → "helps a person"; "creating network" → "creating a network."
-3. GR-VF-001 — complement forms, especially worth + -ing: "worth to learn" → "worth learning."
+1. GR-Q-001 — direct questions: "Why do they struggle?" and "How does my perspective relate to the real reasons?" ACTIVE, 5 selected occurrences and 3 successful checks.
+2. GR-A-001 — a/an with singular countable nouns: "a Chinese-looking car" and "a detailed answer." ACTIVE, 11 selected occurrences and 3 successful checks.
+3. GR-BE-001 — lexical verbs without extra be: "they contain" and "things already exist." ACTIVE, 5 selected occurrences and 1 successful check; no new increment from the car session.
 
-All three are ACTIVE with evidence on both September 12 and September 19. Keep question formation as a short secondary retest; do not overload feedback with every candidate.
+GR-VF-001 remains ACTIVE (3 occurrences), especially worth + -ing. Retest it when natural, without overloading feedback.
 
 ## Strongest areas
 
-Sustained abstract discussion, causal explanations, conditional reasoning, distinction between intuition and evidence, and clear correction of assistant misunderstanding. In the new session, contrasts hard work with luck, customer demand with profitability, and a small reachable audience with broad competition. "The problem is that you will have... you will have to deal with... uh... economy and maybe you will... you will be unprofitable" conveys the key business constraint despite the wording needing refinement. See session notes for exact sources.
+Sustained abstract reasoning, concrete examples, explicit uncertainty and correction of assistant misunderstanding. Earlier sessions distinguished demand from profitability and tools from life goals. The car discussion separated personal design preference from market causes and asked why firms previously succeeded without a large Chinese market. That challenge improved the substantive discussion. No inference about job/interview outcomes.
 
-## Active problems
+## Latest evidence
 
-GR-A-001 — six selected contexts across two sessions; two baseline successful checks.
+German cars: GR-A-001 +2 occurrences/+1 successful check; GR-Q-001 +2/+1. The correct "Could you please explain" demonstrates modal inversion, not mastery of do-support. "A big competitor" shows available article knowledge alongside recent omissions. Confidence in recurring question structure rises to high.
 
-Newly activated: GR-VF-001 (three total contexts); GR-BE-001 (four total contexts, one new successful check).
+New CANDIDATE entries: GR-AGR-001 "what have changed" -> "What has changed?"; VO-TIME-001 "in the beginning of zeros" -> "in the early 2000s." One context each, LOW severity and low recurrence confidence. No newly ACTIVE issue from this conversation.
 
-## Candidates
+Earlier September 20 update: autonomy/business added three article omissions and one extra-be occurrence. Retrospective September 19 Hormuz review activated GR-Q-001 with one error and two correct question checks. September 19 discipline discussion established cross-session recurrence for complement forms and extra be. See session notes for evidence ledgers.
 
-GR-TA-001 and VO-COL-002 have no new selected evidence. VO-COL-001 now has two contexts on two dates and remains below the normal activation threshold. New candidates: GR-Q-001 (two non-subject direct-question contexts, no eligible successful checks), VO-COL-003 (pay for, one context), VO-TERM-001 (unit economics, one context). Do not present these as established recurring weaknesses. The newly created passive entry was withdrawn because build/built is ambiguous in the transcript; it remains an uncounted retest only.
+## Candidates and exclusions
 
-## Improving
+GR-TA-001 (2), VO-COL-001 (2), VO-COL-002 (1), VO-COL-003 (1) and VO-TERM-001 (1) have no new selected evidence in the car discussion. Add GR-AGR-001 and VO-TIME-001 (1 each). Do not call these established recurring weaknesses.
 
-No issue promoted to IMPROVING. "Something that... doesn't exist yet" provides one later spontaneous successful check, but recent errors remain. "Am I-am I right" and successful self-repairs receive qualitative credit only; they do not establish improvement in the tracked question pattern.
+The earlier GR-PASS-001 entry remains withdrawn/reserved because build/built was transcription-ambiguous. Repaired/truncated constructions and recognition ambiguities are excluded. The opening "Why are you repeat the same?" receives local feedback but no practice-count increment. No acquisition claim for assistant-supplied terminology.
 
-## Monitoring / close to resolution
+## Improving / monitoring / close to resolution / resolved
 
-None yet.
-
-## Resolved
-
-None yet.
+None. Correct spontaneous uses and self-repairs deserve credit but do not establish sustained improvement or resolution. All current ACTIVE patterns remain ACTIVE.
 
 ## Recommended next practice
 
-Continue the learner's chosen topic. Ask for a 45–60-second explanation of a small project: what already exists, who it helps, and what is worth testing. Then ask the learner to pose two questions about an unfamiliar customer problem. Retest without announcing each rule. If work history comes up naturally, revisit for/since and continuing situations (GR-TA-001). Use learner examples for brief production drills; prioritize language feedback over unsolicited career or business advice.
+Continue a substantive topic chosen by the learner; avoid routine small talk, repeated generic icebreakers and employment-centered framing unless requested. Let the learner finish before responding or correcting.
 
-Suggested production prompts: "Describe an existing service and a gap in it"; "Explain why one experiment deserves your time"; "Describe one person, one problem and one possible solution." Review pay for and unit economics only after the learner finishes the explanation.
-
+Invite two genuine follow-up questions, then a concise explanation using one claim, one comparison and one question. A purchasing preference or market change can naturally elicit singular noun phrases. Later retest what has changed and decade expressions without giving the wording. Use brief production exercises based on the saved examples. Worth + -ing and continuing situations with for/since remain secondary retests when the topic supports them.

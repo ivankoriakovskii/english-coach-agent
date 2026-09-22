@@ -39,3 +39,7 @@ This file stores stable learner context only.
 
 Do not put individual mistakes here.
 Use `error-registry.md` for errors and `progress.md` for evolving assessment.
+
+## Practice preferences — September 20, 2026
+
+Prefer substantive abstract discussion, independent projects, entrepreneurship, autonomy and relationships. Do not suggest daily-routine small talk or steer practice toward salary, interviews or corporate advancement unless requested. Learner explicitly values negotiation; objection was to employment-centered framing. Career-related examples above are available only when learner chooses that topic.

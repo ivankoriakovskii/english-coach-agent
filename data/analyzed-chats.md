@@ -24,3 +24,27 @@ D01–D13 and the two successful checks in 2026-09-19-1202-discipline-entreprene
 
 Skip another analysis of this covered material even if assistant/tool activity changes the task timestamp. Match later overlapping deltas against the session ledger before counting genuinely new learner messages. Do not recount setup, quotations in feedback, interrupted suffixes, or a report delivered by an analysis task. No pronunciation assessment was made.
 
+
+## September 20 discovery and coverage
+
+list_threads(limit=50) exposed five tasks in this project; archived listing empty, no unavailable sources reported. The three previously tracked tasks were checked at their latest two turns; no new learner practice beyond recorded coverage was identified. Historical analysis/delegated quotations are not new speech. Other ChatGPT project IDs/null-project conversations were not assumed part of this project.
+
+| chat_id | chat title | last message analyzed | analyzed at | result |
+|---|---|---|---|---|
+| 01a0be46-a24a-7c01-8e91-4a86d2d59392 | Building a Profitable Business | Current-context final thanks beginning 'Okay, I think that’s enough for-for now' and closing tail flush | 2026-09-20 12:44 Europe/Budapest | All supplied learner transcript covered; S01-S04 counted once; session 2026-09-20-1244-autonomy-business; analysis/self-delegation excluded |
+| 01a0bb23-0933-74d3-98ce-5486f3efde4b | Why US Can’t Secure Hormuz | 01a0bb29-9cca-7d52-82a3-521e98a87235 tail flush | 2026-09-20 12:44 Europe/Budapest | All four turns inspected; H01-H03; session 2026-09-19-2050-hormuz; interrupted prior analysis had not saved counts |
+
+Do not recount S01-S04 or H01-H03 from replayed transcripts or assistant feedback. Pronunciation unassessed in both sessions.
+
+## September 20, 14:19 Europe/Budapest — German cars post-session sweep
+
+| chat_id | chat title | last message analyzed | analyzed at | result |
+|---|---|---|---|---|
+| 01a0beaf-263f-7270-9c54-5963a8bbb0ba | Why German Cars Struggle | Final learner ending 01a0bebf-f2be-7a10-a6f2-102e4a8e292b; tail 01a0bec0-1265-7da0-a58e-8ab9aadaecbb | 2026-09-20 14:19 Europe/Budapest | All five turns on one page inspected; session 2026-09-20-1419-german-cars; G01-G08 deduplicated; six selected errors, two checks; no audio |
+| 01a0bec1-05d6-7b43-9d72-fe1647e5dbcb | Record German car discussion practice | Initial delegated analysis request, current context | 2026-09-20 14:19 Europe/Budapest | Analysis-only task; quotations are not new learner production |
+
+Discovery: list_threads(limit=50) exposed six source tasks belonging to project 65eba7f4-5ff0-4efa-a899-7cae8ce6a41b, plus the current analysis task known from its own context. Local archived listing empty; no unavailable hosts/sources reported. Other/null-project ChatGPT conversations excluded. This is accessible coverage, not a claim about unexposed history.
+
+Previously covered tasks were checked at their latest two turns. Building a Profitable Business includes Russian follow-up 01a0be6f-dc04-7381-9282-7eef8570e345 asking for saved analysis; no new English practice. Its exact covered ending is 01a0be69-f7dc-7a12-a57b-f22270595d22, tail 01a0be6a-1784-72c1-8f3d-1cded77304ab. Why US Can’t Secure Hormuz and Discipline and Entrepreneurial Rise end at their existing saved boundaries. Проанализировать English Coach remains setup/analysis only. AI Agents for Career Growth was additionally read through its recorded final learner/tail boundary because the two newest turns contain only analysis activity; no new learner practice. Prior counts preserved.
+
+Reprocessing: G01-G08 are covered once, including immediate repetitions, input/delta duplication and next-turn replays. The final historical argument repeats in the closing turn. Do not recount analysis reports or quotes from this task. The opening complaint about repeated questions is local feedback only, excluded from substantive-practice counters. Pronunciation not assessed.

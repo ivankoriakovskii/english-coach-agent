@@ -23,3 +23,9 @@ Successful repairs include "if you're... don't have... if you don't have" (01a0b
 
 Professional communication strength: the learner distinguishes demand from profitable delivery and supports it with a concrete cleaning-service price example (01a0b93b-178a-7c41-b4a3-15e392a0b799). Practice a 45–60-second explanation with one claim, one example and one conclusion. No measured improvement/decline and no canonical fluency entry assigned. Pronunciation remains unassessed.
 
+
+2026-09-20 — session 2026-09-20-1244-autonomy-business: extended coherent explanations of autonomy, a snack store and incremental learning; visible clause rebuilding but successful recoveries. No timing, filler-rate or pronunciation claims. Replayed deltas excluded. GR-A-001 and GR-BE-001 are grammar references, not duplicate fluency counts. Concise claim-example-conclusion practice recommended.
+
+Retrospective September 19 Hormuz review: question is recoverable despite repeated starts. GR-Q-001 includes both incorrect direct inversion and correct spontaneous questions. Do not treat the correct embedded question as an error.
+
+2026-09-20 — session 2026-09-20-1419-german-cars: sustained comparison of brand design and market explanations, followed by a historical counterargument that exposed a gap in the assistant's reasoning. Clause rebuilding is visible in the long historical turn, but the objection remains recoverable. Respect explicit requests to finish speaking; interrupted boundaries, input/delta replays and immediate same-phrase repetitions are not independent error contexts. No numerical fluency or pronunciation assessment. GR-A-001 and GR-Q-001 remain grammar targets; no duplicate fluency entry. Concise claim-comparison-question practice recommended.

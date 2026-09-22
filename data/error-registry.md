@@ -6,15 +6,17 @@ This is the source of truth for recurring English problems.
 
 | error_id | category | pattern | status | severity | confidence | occurrences | successful_checks | first_seen | last_seen |
 |---|---|---|---|---|---|---:|---:|---|---|
-| GR-A-001 | Grammar | Missing indefinite article before singular countable nouns | ACTIVE | MEDIUM | high | 6 | 2 | 2026-09-12 | 2026-09-19 |
+| GR-A-001 | Grammar | Missing indefinite article before singular countable nouns | ACTIVE | MEDIUM | high | 11 | 3 | 2026-09-12 | 2026-09-20 |
 | GR-VF-001 | Grammar | Selecting the complement form after a verb or expression | ACTIVE | MEDIUM | medium | 3 | 0 | 2026-09-12 | 2026-09-19 |
 | GR-TA-001 | Grammar | Present perfect for situations continuing until now | CANDIDATE | LOW | low | 2 | 0 | 2026-09-12 | 2026-09-12 |
-| GR-BE-001 | Grammar | Extra be before a simple lexical verb | ACTIVE | MEDIUM | high | 4 | 1 | 2026-09-12 | 2026-09-19 |
+| GR-BE-001 | Grammar | Extra be before a simple lexical verb | ACTIVE | MEDIUM | high | 5 | 1 | 2026-09-12 | 2026-09-20 |
 | VO-COL-001 | Vocabulary | trade/exchange something for something | CANDIDATE | LOW | medium | 2 | 0 | 2026-09-12 | 2026-09-19 |
 | VO-COL-002 | Vocabulary | Describing conclusions from limited data | CANDIDATE | LOW | low | 1 | 0 | 2026-09-12 | 2026-09-12 |
-| GR-Q-001 | Grammar | Auxiliary placement in direct questions | CANDIDATE | LOW | low | 2 | 0 | 2026-09-19 | 2026-09-19 |
+| GR-Q-001 | Grammar | Auxiliary placement in direct questions | ACTIVE | MEDIUM | high | 5 | 3 | 2026-09-19 | 2026-09-20 |
 | VO-COL-003 | Vocabulary | pay for a product or service | CANDIDATE | LOW | low | 1 | 0 | 2026-09-19 | 2026-09-19 |
 | VO-TERM-001 | Vocabulary | unit economics for profitability per unit/customer | CANDIDATE | LOW | low | 1 | 0 | 2026-09-19 | 2026-09-19 |
+| GR-AGR-001 | Grammar | Singular agreement in what has changed | CANDIDATE | LOW | low | 1 | 0 | 2026-09-20 | 2026-09-20 |
+| VO-TIME-001 | Vocabulary | Naming the early years of a decade | CANDIDATE | LOW | low | 1 | 0 | 2026-09-20 | 2026-09-20 |
 
 ## Counting and scope
 
@@ -37,10 +39,10 @@ Evidence keys D01–D13 belong to session 2026-09-19-1202-discipline-entrepreneu
 - **Status:** ACTIVE
 - **Severity:** MEDIUM
 - **Confidence:** high
-- **Occurrences:** 6
-- **Successful checks:** 2
+- **Occurrences:** 11
+- **Successful checks:** 3
 - **First seen:** 2026-09-12
-- **Last seen:** 2026-09-19
+- **Last seen:** 2026-09-20
 - **Rule/problem:** Use a/an for an indefinite singular countable noun. Six selected contexts across two sessions establish recurrence across days.
 - **Likely cause/interference:** Not established from this session.
 - **Remediation:** Describe a tool, a difficulty and a possible outcome spontaneously.
@@ -62,6 +64,11 @@ Evidence keys D01–D13 belong to session 2026-09-19-1202-discipline-entrepreneu
 Later spontaneous correct uses in the E02 message: "it's not a disaster" and "it's not a... huge problem" (two successful checks). Repeated "it's not a disaster" counted once. These show available knowledge, not sustained improvement yet.
 
 2026-09-19: omissions recur in three separate turns. No additional article successful checks selected; this is not a claim that all articles were wrong. "Build a network" is an optional collocation improvement for D03, not a second error.
+
+
+September 20 supplement (session 2026-09-20-1244-autonomy-business): S01 'good network is one of the most important thing' -> 'a good network is one of the most important things' (networking turn); S02 'when I visit new country' -> 'when I visit a new country' (flavors/travel turn); S03 'choose more profitable business' -> 'choose a more profitable business' (final business-learning turn). Three independent spontaneous contexts; one article occurrence each. Plural correction in S01 is local feedback, not another count.
+
+September 20 car-discussion supplement (2026-09-20-1419-german-cars): G01 "if I want... Chinese looking car" -> "if I want a Chinese-looking car" (01a0beb7-d61a-7883-bc12-861f0370ee42); G04 "this as uh... detailed answer" -> "this as a detailed answer" (01a0beb9-5e7c-73f2-b3ae-c7998dd95bc4). Two selected spontaneous article omissions. Other car noun phrases in G01's argument are not additional counts. G07 later spontaneous "China still uh is not a big competitor" (01a0bebe-33fb-71c1-ac27-dd2af65422e3) adds one successful check. ACTIVE remains appropriate; no frequency trend established.
 
 ### GR-VF-001 — Selecting the complement form after a verb or expression
 
@@ -125,10 +132,10 @@ Two distinct predicates, both in one turn: low recurrence confidence. January/ei
 - **Status:** ACTIVE
 - **Severity:** MEDIUM
 - **Confidence:** high
-- **Occurrences:** 4
+- **Occurrences:** 5
 - **Successful checks:** 1
 - **First seen:** 2026-09-12
-- **Last seen:** 2026-09-19
+- **Last seen:** 2026-09-20
 - **Rule/problem:** Simple present lexical verbs do not take be: they bring; what matters; things exist. Use do/does for lexical-verb negation: businesses do not exist yet.
 - **Likely cause/interference:** Not established from this session.
 - **Remediation:** State what matters to you and what opportunities different tools bring.
@@ -146,6 +153,9 @@ Two distinct predicates, both in one turn: low recurrence confidence. January/ei
 #### Notes
 
 The first two clauses were from one turn. D05–D06 establish recurrence in another session, in two separate arguments. One later spontaneous successful check after D05: "something that... doesn't exist yet" in message 01a0b93b-178a-7c41-b4a3-15e392a0b799; no immediate correction/drill preceded that correct use. D06 follows in a later turn, so sustained improvement is not established. Do not count repaired "I'm not really... care ... I don't really care" or "if you're... don't have... if you don't have" as incorrect occurrences.
+
+
+September 20 supplement: S04 'they are... contain something really special' -> 'they contain something really special' (mystery-box explanation, session 2026-09-20-1244-autonomy-business). One spontaneous occurrence; subsequent assistant correction and replay excluded.
 
 ### VO-COL-001 — trade/exchange something for something
 
@@ -204,13 +214,13 @@ Understandable but unnatural. Meaning-preserving reformulation, not a claim that
 
 - **Category:** Grammar
 - **Subcategory:** word order / clause structure
-- **Status:** CANDIDATE
-- **Severity:** LOW
-- **Confidence:** low
-- **Occurrences:** 2
-- **Successful checks:** 0
+- **Status:** ACTIVE
+- **Severity:** MEDIUM
+- **Confidence:** high
+- **Occurrences:** 5
+- **Successful checks:** 3
 - **First seen:** 2026-09-19
-- **Last seen:** 2026-09-19
+- **Last seen:** 2026-09-20
 - **Rule/problem:** In non-subject wh-questions, put the modal before the subject (what can you say) or add do-support for a simple lexical verb (what does this mean). Subject questions and formulaic be-questions do not test this target.
 - **Likely cause/interference:** Not established from this evidence.
 - **Remediation:** Ask three concise follow-up questions about an unfamiliar business idea.
@@ -226,6 +236,11 @@ Understandable but unnatural. Meaning-preserving reformulation, not a claim that
 #### Notes
 
 Two independent direct-question contexts remain after review, below the normal activation threshold. No eligible successful checks selected. "Am I-am I right" (message 01a0b935-80ee-7e82-830d-4a4dfbbfef40) receives qualitative credit only; it does not test this target. D08 is a redundant-subject issue, retained as local feedback only. No count for "What ... clarity ... means? ... what-what does it mean": the learner repairs it. The fall-through/follow-through recognition ambiguity is excluded, as is quotation of "recover from setbacks" when asking its meaning.
+
+
+September 20 retrospective supplement (September 19 Hormuz session): H01 direct 'But why why Americans cannot ... make the Gulf safe' -> 'But why can’t the Americans make the Gulf safe?' (message 01a0bb28-4a3d-7ff0-a51e-d6b448c43596). One new independent direct question activates pattern across two conversations. Earlier embedded 'What is interesting for me is why ... Americans cannot' is acceptable word order and excluded. H02 'How does ... it ... affect' and H03 'Why don’t they do it' are two spontaneous successful inversion checks; H02 still needs local correction affect on -> affect. Old candidate notes above describe the prior assessment, superseded by this dated supplement.
+
+September 20 car-discussion supplement (2026-09-20-1419-german-cars): G02 "Why... they struggle so much, right now" -> "Why do they struggle so much right now?" (01a0beb2-044e-7631-9d6b-ad570f2df4ec); G03 "how my ... perspective... relate to the-the real... reasons" -> "How does my perspective relate to the real reasons?" (01a0beb7-d61a-7883-bc12-861f0370ee42). Two independent spontaneous do-support omissions; ACTIVE, high recurrence confidence. G08 later "Could you please... explain" (01a0beb9-5e7c-73f2-b3ae-c7998dd95bc4) adds one successful modal-inversion check, despite local phrasing elsewhere. This does not establish do-support mastery. "What have changed" is a subject question, tracked separately under GR-AGR-001.
 
 ### VO-COL-003 — pay for a product or service
 
@@ -279,3 +294,36 @@ Selected once from one extended argument, although the same wording is repeated 
 
 One terminology observation. The underlying distinction between selling something and making a profit was clearly communicated; this entry is not a criticism of the learner's business reasoning.
 
+
+
+### GR-AGR-001 — Singular agreement in what has changed
+
+- **Category:** Grammar
+- **Subcategory:** agreement
+- **Status:** CANDIDATE
+- **Severity:** LOW
+- **Confidence:** low
+- **Occurrences:** 1
+- **Successful checks:** 0
+- **First seen:** 2026-09-20
+- **Last seen:** 2026-09-20
+- **Rule/problem:** Use singular has when asking generally what has changed; no plural subject is supplied here. This is a subject question, so do-support is unnecessary.
+- **Evidence:** 2026-09-20-1419-german-cars / G06, spontaneous "what...what have changed, what uh... have changed" -> "What has changed?" Historical-market comparison, message 01a0bebe-33fb-71c1-ac27-dd2af65422e3. Same-question repetition counted once.
+- **Notes:** One selected context, not established recurrence. Earlier local agreement feedback remains uncounted; do not retroactively inflate this entry.
+- **Remediation / next retest:** Ask what has changed in a familiar industry since an earlier period, without supplying the wording.
+
+### VO-TIME-001 — Naming the early years of a decade
+
+- **Category:** Vocabulary
+- **Subcategory:** unnatural collocation
+- **Status:** CANDIDATE
+- **Severity:** LOW
+- **Confidence:** low
+- **Occurrences:** 1
+- **Successful checks:** 0
+- **First seen:** 2026-09-20
+- **Last seen:** 2026-09-20
+- **Rule/problem:** For this reference to the beginning of the century, use in the early 2000s; "in the beginning of zeros" is understandable but unnatural.
+- **Evidence:** 2026-09-20-1419-german-cars / G05, spontaneous "in the beginning of zeros" -> "in the early 2000s"; historical-market comparison, message 01a0bebe-33fb-71c1-ac27-dd2af65422e3.
+- **Notes:** One context only. The approximate "30 years ago" is not a separate language error; the intended reference was clarified by the surrounding century comparison.
+- **Remediation / next retest:** Compare an industry in the early 2000s and today; later test another decade without supplying the phrase.
