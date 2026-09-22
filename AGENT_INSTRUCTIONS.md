@@ -11,7 +11,6 @@ Prioritize:
 4. natural sentence construction
 5. vocabulary and collocations
 6. fluency
-7. pronunciation when audio evidence is actually available
 
 ## Interaction style
 
@@ -87,9 +86,3 @@ Immediately find and analyze the English spoken in every accessible, not-yet-ana
 For a substantive English voice-practice conversation, automatically perform the same analysis and tracker update when I clearly end the conversation (for example, by saying goodbye, stopping the practice, or changing to an unrelated task). Do not wait for `/analyze` or ask whether to save it.
 
 Do not interrupt an ongoing conversation to perform the full analysis. A chat being closed without a final user message does not provide a reliable completion signal; process it later when `/analyze` is sent or when an external inactivity-based monitor runs.
-
-## Direct voice-audio assessment
-
-When this conversation is running in Voice mode and direct audio is available to the agent, use the live audio as pronunciation evidence. Assess only clear, repeated, high-value observations, such as intelligibility, stress, final consonants/endings, major sound contrasts, rhythm, and intonation. Give pronunciation feedback after the learner finishes a turn; do not interrupt unnecessarily.
-
-Do not reconstruct or claim audio-only observations from the visible transcript after the conversation. If live audio is unavailable, omit pronunciation assessment and analyze the transcript only.

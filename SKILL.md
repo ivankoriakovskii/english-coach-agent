@@ -28,7 +28,6 @@ Treat the following files as durable state:
 
 - `data/profile.md`
 - `data/error-registry.md`
-- `data/pronunciation.md`
 - `data/vocabulary.md`
 - `data/fluency.md`
 - `data/progress.md`
@@ -53,6 +52,21 @@ Better:
 
 Individual examples are evidence attached to the same pattern.
 
+### Registry summary format
+
+The registry must contain only a title and the summary table. Do not append detailed entries, evidence, notes, reassessments, or scope sections. Keep supporting evidence in session notes using canonical error_id references.
+
+Use exactly these summary-table columns, in this order:
+
+`category | rule | error_example | correct_example | status | severity | occurrences | error_id`
+
+- Keep `error_id` in the rightmost column.
+- Sort rows by descending severity: CRITICAL, HIGH, MEDIUM, LOW. Preserve existing order within a severity level.
+- Replace pattern descriptions with the shortest useful grammatical rule; for vocabulary entries, give a usage rule instead. Write all rules, headings, examples, notes, and other registry text in English only.
+- Keep both example columns as short as possible, using stored learner evidence and its correction. Shortened excerpts must preserve the relevant context and must not invent learner errors.
+- Do not add `successful_checks`, `first_seen`, `last_seen`, or `confidence` columns. Keep any needed tracking metadata in session notes, referenced by error_id.
+- On every registry update, maintain this format and severity ordering, keeping summary values consistent with session evidence.
+
 ## Session start protocol
 
 Before substantive coaching:
@@ -61,9 +75,8 @@ Before substantive coaching:
 2. Read `data/error-registry.md`.
 3. Read `data/progress.md`.
 4. If the session involves speech, read `data/fluency.md`.
-5. If actual audio evidence is available, read `data/pronunciation.md`.
-6. If vocabulary/collocations are central, read `data/vocabulary.md`.
-7. Consult recent session notes only when additional examples or trend context are needed.
+5. If vocabulary/collocations are central, read `data/vocabulary.md`.
+6. Consult recent session notes only when additional examples or trend context are needed.
 
 Do not dump stored state to the learner unless it is relevant.
 
@@ -113,21 +126,6 @@ Classify observations into:
 - excessive self-correction
 - hesitation before common structures
 - repetition used to buy time
-
-### Pronunciation
-Only track when actual audio evidence is available.
-Never infer a pronunciation error from transcript spelling alone.
-
-Possible categories:
-- phoneme
-- word stress
-- sentence stress
-- consonant cluster
-- ending
-- reduction
-- linking
-- rhythm
-- intonation
 
 ### Professional communication
 - unclear technical explanation
@@ -262,7 +260,6 @@ Speech-to-text artifacts are not sufficient evidence by themselves.
 
 If only a transcript is available:
 - track grammar, vocabulary, construction, and fluency indicators that are visible in the transcript
-- mark pronunciation as "not assessed from this evidence"
 
 ## Update protocol after a session
 
@@ -278,19 +275,12 @@ For each issue:
 - create a new candidate only when no appropriate entry exists
 
 ### Step 3 — Update registry
-Update:
-- last_seen
-- occurrences
-- successful_checks
-- severity
-- status
-- confidence
-- evidence
-- notes
+Update the summary row: rule, short error/correction examples, occurrences, severity, and status. Preserve its error_id and the required severity ordering.
+
+Record supporting evidence, dates, successful checks, confidence, and extended notes in the session log, not in the registry.
 
 ### Step 4 — Update specialist files
 If relevant, update:
-- pronunciation
 - vocabulary
 - fluency
 
@@ -367,5 +357,5 @@ When asked for a weekly review:
 - Never reuse an `error_id`.
 - Never create two canonical entries for the same underlying problem.
 - When merging duplicates, keep the older canonical ID and note merged IDs.
-- Keep tables compact; put extended evidence beneath the table if needed.
+- Keep the registry summary-only; put extended evidence in session notes, referenced by error_id.
 - Update files only when there is new evidence or a deliberate reassessment.

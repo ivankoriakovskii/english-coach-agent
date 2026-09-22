@@ -8,6 +8,4 @@ When the user sends `/analyze`, immediately discover and analyze every accessibl
 
 At the clear end of a substantive English voice-practice conversation, automatically perform the same analysis and tracker update without waiting for `/analyze`. Do not interrupt an ongoing conversation. A closed chat without a final message can only be handled by a later `/analyze` or an external inactivity-based monitor.
 
-When Voice mode provides direct audio to the conversation, use it for cautious pronunciation assessment during the live session. Record only clear, repeated observations; never infer them later from the transcript.
-
 Do not infer pronunciation from a transcript without actual audio evidence. Do not log ambiguous speech-recognition artifacts as learner errors.

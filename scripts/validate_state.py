@@ -13,7 +13,6 @@ required = [
     ROOT / "config.yaml",
     ROOT / "data" / "profile.md",
     REGISTRY,
-    ROOT / "data" / "pronunciation.md",
     ROOT / "data" / "vocabulary.md",
     ROOT / "data" / "fluency.md",
     ROOT / "data" / "progress.md",
@@ -28,7 +27,7 @@ if missing:
     sys.exit(1)
 
 text = REGISTRY.read_text(encoding="utf-8")
-ids = re.findall(r"^###\s+([A-Z][A-Z0-9-]+)\s+—", text, flags=re.MULTILINE)
+ids = re.findall(r"\|\s*([A-Z][A-Z0-9-]+)\s*\|\s*$", text, flags=re.MULTILINE)
 duplicates = sorted({x for x in ids if ids.count(x) > 1})
 
 if duplicates:

@@ -12,7 +12,6 @@
 | Vocabulary | | | |
 | Sentence construction | | | |
 | Fluency | | | |
-| Pronunciation | | | |
 | Professional communication | | | |
 
 ## Top recurring weaknesses
